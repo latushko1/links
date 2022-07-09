@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    body{
+        font-family: 'Montserrat', sans-serif;
+    }
+}
+
+@layer components{
+    .container{
+        @apply max-w-[700px]
+    }
+}
+
+
+/* <----------------------- Burger menu setup -----------------------> */
+body {
+    background: url(/img/bg.jpg) repeat center center fixed;
+    background-size: cover;
+    opacity: 0;
+    filter: blur(10px);
+    transition: opacity 2s ease-in-out, filter 2s ease-in-out ;
+}
