@@ -695,7 +695,7 @@ body {
   position: relative;
   top: 0;
   left: 0;
-  background: url(biolink/img/bg.jpg) center center fixed;
+  background: url(/biolink/img/bg.jpg) center center fixed;
   background-size: cover;
   opacity: 0;
   filter: blur(10px);
