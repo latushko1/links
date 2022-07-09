@@ -695,7 +695,7 @@ body {
   position: relative;
   top: 0;
   left: 0;
-  background: url(https://psv4.vkuseraudio.net/s/v1/d/HUrJOtY8zc3OSX7460MhnNN99DqyqnHZTheLtx13l6kRrall0NEEGHToz69at2eWkey9vBNS5GcwcyNyJ7wjhoKlK5NHNWTVewfffvBmliZDrW7qmwoFqw/bg.jpg) center center fixed;
+  background: url(/img/bg.jpg) center center fixed;
   background-size: cover;
   opacity: 0;
   filter: blur(10px);
