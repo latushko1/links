@@ -709,7 +709,7 @@ body {
 
 #vanta{
   position: absolute;
-  height: 95vh;
+  height: 85vh;
   width: 100%;
   z-index: -1;
 }
