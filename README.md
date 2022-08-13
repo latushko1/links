@@ -13,7 +13,7 @@
  ![image](https://user-images.githubusercontent.com/98906212/184502435-4c57f4ed-f7f3-484d-9ba5-78c5dc9a891d.png)
  
  ## Corrected: ##
-* Fixed background color scheme.
+* Fixed background color theme.
 * Fixed code that could cause background scrolling.
 * Changed profile photo and signature.
 * Now glass effect is set instead of transparency, shadow appears on hover.
