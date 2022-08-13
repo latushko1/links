@@ -18,5 +18,4 @@
 * Changed profile photo and signature.
 * Now glass effect is set instead of transparency, shadow appears on hover.
 
-####  [Links](https://latushko1.github.io/links/)
-
+##  [Links](https://latushko1.github.io/links/)  ##
