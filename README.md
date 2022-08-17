@@ -17,5 +17,6 @@
 * Fixed code that could cause background scrolling.
 * Changed profile photo and signature.
 * Now glass effect is set instead of transparency, shadow appears on hover.
+* Added load animation
 
 ##  [Links](https://latushko1.github.io/links/)  ##
