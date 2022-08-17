@@ -1,9 +1,8 @@
-setTimeout(()=>{
-    const main = document.querySelector('body');
-    main.style.opacity = 1 
-    main.style.filter = ('blur(0px)') 
-}, 1000)
-
+const fadeOut = () =>{
+    const loaderWrapper = document.querySelector('.wrapper')
+    loaderWrapper.classList.add('fade')
+}
+window.addEventListener('load', fadeOut)
 const vanta = document.querySelector('#vanta')
 
 VANTA.BIRDS({
